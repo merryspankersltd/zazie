@@ -8,7 +8,7 @@ Zazie est un moteur d'itinéraire multimodal à l'échelle de la région Rhône 
 
 La généralisation des fichiers GTFS en accès libre ainsi que des projets libres de moteeurs d'itinéraires intégrant des fonctions d'analyse spatiale (https://www.opentripplanner.org/) rendent possible l'analyse de l'accessibilité en local sans passer par les plateformes en ligne des opérateurs.
 
-## Usage
+## Le projet
 
 La démarche passe par la mise en oeuvre en local d'un serveur open trip planner à l'échelle de la région Rhône-Alpes-Auvergne et la maintenance d'un graph contenant les fichiers GTFS de toutes les autorités de transport du territoire d'étude, y compris les réseaux nationaux opérant sur le territoire, ainsi qu'un réseau routier et un modèle altimétrique nécessaire à la modélisation des déplacements piéton et vélo.
 
