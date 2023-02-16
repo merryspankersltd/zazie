@@ -15,3 +15,4 @@ La démarche passe par la mise en oeuvre en local d'un serveur open trip planner
 Des snapshots permettront de conserver un historique des conditions de déplacement et d'effectuer des analyses diachroniques.
 
 La conteneurisation de                                                                                                  b       b                                                                                                                                                                                                                                                                    
+                                                                                                         
