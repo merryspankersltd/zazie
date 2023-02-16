@@ -13,3 +13,7 @@ La généralisation des fichiers GTFS en accès libre ainsi que des projets libr
 La démarche passe par la mise en oeuvre en local d'un serveur open trip planner à l'échelle de la région Rhône-Alpes-Auvergne et la maintenance d'un graph contenant les fichiers GTFS de toutes les autorités de transport du territoire d'étude, y compris les réseaux nationaux opérant sur le territoire, ainsi qu'un réseau routier et un modèle altimétrique nécessaire à la modélisation des déplacements piéton et vélo.
 
 Des snapshots permettront de conserver un historique des conditions de déplacement et d'effectuer des analyses diachroniques.
+
+## Installation
+
+Une image docker complète de Zazie contenant le serveur et les données du graphe sont disponibles sur hub.docker.com.
