@@ -16,4 +16,4 @@ Des snapshots permettront de conserver un historique des conditions de déplacem
 
 ## Installation
 
-Une image docker complète de Zazie contenant le serveur et les données du graphe sont disponibles sur hub.docker.com.
+Une image docker complète de Zazie contenant le serveur et les données du graphe sont disponibles sur https://hub.docker.com/repository/docker/outforawhile/zazie/general
